@@ -1,2 +1,2 @@
 # DSA
-This repository consists of my learnings of some Data Structures.
+This repository consists of my learnings of some Data Structures and Algorithms.
